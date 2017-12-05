@@ -1,1 +1,1 @@
-commit3 zmieniony, dodanie nowej lini - posz³o do commita 5
+commit3 zmieniony, usuniêcie nowej lini - posz³o do commita 6
